@@ -318,7 +318,7 @@ One of the central ideas behind AmeekAI is specialized agent functionality.
 
 The conversational agent provides a natural-language interface for interacting with AI.
 
-Its purpose is to support general questions, explanations, and conversational workflows.
+Its purpose  to support general questions, explanations, and conversational workflows.
 
 ### 2. Coding Agent
 
